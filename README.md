@@ -9,3 +9,6 @@ Changed id and classes to define what certain elements do,Links and images.
 Added alt attribute to all image elements.  
 Made sure headers are in correct order.  
 Added a descriptive title for elements   
+
+### Tools Used
+Html | Css | Javascript
